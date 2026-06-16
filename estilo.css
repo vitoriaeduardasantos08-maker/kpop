@@ -1,9 +1,10 @@
 body{
-    background-color: rgb(198, 102, 228);
+    background-color: rgb(163, 64, 209);
     color:rgb(19, 11, 27)
 }
 
 .cabeçalho{
-    background-color: rgb(158, 81, 230);
+    background-color: rgb(148, 80, 212);
     text-align: center;
+    padding: 30px;
 }
