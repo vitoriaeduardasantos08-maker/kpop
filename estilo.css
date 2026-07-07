@@ -30,4 +30,6 @@ padding: 16px
 article{
 display: flex;
 background-color: rgb(183, 96, 223);
+align-items: center; 
+padding: 24px;
 }
